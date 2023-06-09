@@ -14,7 +14,7 @@ body {
     align-items: center;
     text-align: center;
 
-    background-image: url('/fundo.jpg');
+    background-image: url('fundo.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     background-color: #2D253A;
